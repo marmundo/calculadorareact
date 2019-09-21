@@ -1,4 +1,4 @@
-Deployed at [Calculadora](hhtp://bit.ly/calcmdm).
+Deployed at [Calculadora](http://bit.ly/calcmdm).
 
 ## Available Scripts
 
